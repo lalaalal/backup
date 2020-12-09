@@ -6,6 +6,9 @@
 .config/nitrogen/
 .config/mpd/mpd.conf
 
+.icons/
+.themes/
+
 .vimrc
 .vim
 
