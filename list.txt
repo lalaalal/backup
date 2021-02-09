@@ -1,4 +1,5 @@
 .Xresources
+.xinitrc
 .config/picom.conf
 .config/gtk-3.0/
 .config/i3/
