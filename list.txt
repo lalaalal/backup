@@ -20,6 +20,9 @@
 
 .local/share/fonts/
 .local/share/applications/
+.local/bin/
+.local/opt/
+.local/share/mcs
 
 Music/
 Pictures/
