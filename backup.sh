@@ -12,3 +12,5 @@ else
 	rsync --delete -arv --files-from=list.txt ~/ $1:~/$BACKUP_PATH
 	rsync --delete -rv /usr/local/bin/ $1:~/$BACKUP_PATH/bin/
 fi
+
+#test
